@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # jour
 a digital journal
->>>>>>> 17d1c2175db60a418c4ab893cdc08db66763eb5c
+
